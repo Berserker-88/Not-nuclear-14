@@ -11898,3 +11898,61 @@ Entries:
   id: 6469
   time: '2026-09-22T23:25:52.0000000+00:00'
   url: https://github.com/Misfit-Sanctuary/nuclear-14/pull/1991
+- author: RedBookcase
+  changes:
+    - type: Tweak
+      message: Paladin HAR kit gets 1 spare mag, not 2
+    - type: Tweak
+      message: HAR ROF 6.5 -> 6.0, HAR clothing slowdown increased from 10% -> 15%
+    - type: Fix
+      message: >-
+        HAR size increased from 2x4 to 4x4, HAR magazine size increased from 1x2
+        to 2x2
+    - type: Tweak
+      message: Increase price of the AER-14 BP
+  id: 6470
+  time: '2026-09-24T02:53:30.0000000+00:00'
+  url: https://github.com/Misfit-Sanctuary/nuclear-14/pull/1995
+- author: Tytos
+  changes:
+    - type: Tweak
+      message: blade of mars does 5 less dmg
+  id: 6471
+  time: '2026-09-24T02:53:40.0000000+00:00'
+  url: https://github.com/Misfit-Sanctuary/nuclear-14/pull/1996
+- author: ToasterEnjoyer
+  changes: []
+  id: 6472
+  time: '2026-09-25T03:00:40.0000000+00:00'
+  url: https://github.com/Misfit-Sanctuary/nuclear-14/pull/1999
+- author: sssaaagggeee
+  changes:
+    - type: Add
+      message: women's rights!
+  id: 6473
+  time: '2026-09-25T03:12:30.0000000+00:00'
+  url: https://github.com/Misfit-Sanctuary/nuclear-14/pull/1912
+- author: Riptidetheshark87
+  changes:
+    - type: Add
+      message: Brass knuckles
+    - type: Add
+      message: Gold knuckles
+    - type: Add
+      message: Love and hate
+    - type: Add
+      message: Love and Hate to Tribal BP
+    - type: Tweak
+      message: brass knuckles attack speed nerfed
+  id: 6474
+  time: '2026-09-25T03:22:14.0000000+00:00'
+  url: https://github.com/Misfit-Sanctuary/nuclear-14/pull/1980
+- author: Enkidienne
+  changes:
+    - type: Add
+      message: Footstep sounds to heavy and combat c27 armor.
+    - type: Add
+      message: check for outerclothing to play effects on steps.
+  id: 6475
+  time: '2026-09-26T21:29:52.0000000+00:00'
+  url: https://github.com/Misfit-Sanctuary/nuclear-14/pull/1985
