@@ -11947,3 +11947,12 @@ Entries:
   id: 6474
   time: '2026-09-25T03:22:14.0000000+00:00'
   url: https://github.com/Misfit-Sanctuary/nuclear-14/pull/1980
+- author: Enkidienne
+  changes:
+    - type: Add
+      message: Footstep sounds to heavy and combat c27 armor.
+    - type: Add
+      message: check for outerclothing to play effects on steps.
+  id: 6475
+  time: '2026-09-26T21:29:52.0000000+00:00'
+  url: https://github.com/Misfit-Sanctuary/nuclear-14/pull/1985
