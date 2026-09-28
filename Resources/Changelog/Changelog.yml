@@ -11972,3 +11972,10 @@ Entries:
   id: 6477
   time: '2026-09-27T00:47:37.0000000+00:00'
   url: https://github.com/Misfit-Sanctuary/nuclear-14/pull/2003
+- author: ToasterEnjoyer
+  changes:
+    - type: Tweak
+      message: The NCR Medical Corps now accepts pacifists
+  id: 6478
+  time: '2026-09-28T02:52:02.0000000+00:00'
+  url: https://github.com/Misfit-Sanctuary/nuclear-14/pull/2005
