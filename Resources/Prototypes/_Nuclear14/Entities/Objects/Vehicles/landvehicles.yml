@@ -263,7 +263,7 @@
   id: VehicleBuggy
   parent: BaseVehicle
   name: Wasteland Buggy
-  description: Slapped together with Old World vehicle parts, these off-road vehicles are reliable in the wasteland both loners and scouts, with a salvaged fusion engine meaning no fuel is needed.
+  description: Slapped together with Old World vehicle parts, these off-road vehicles are reliable in the wasteland to both loners and scouts, with a salvaged fusion engine meaning no fuel is needed.
   components:
   - type: Sprite
     sprite: _Nuclear14/Objects/Vehicles/bikesbuggy.rsi
